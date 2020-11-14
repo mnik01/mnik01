@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on TrelloClone app
+- 🌱 I’m currently learning React, Typescript, Storybook etc
+
+![](heart.gif)
 <!--
 **mnik01/mnik01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

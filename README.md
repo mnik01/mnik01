@@ -3,7 +3,12 @@
 - 🔭 I’m currently working on TrelloClone app
 - 🌱 I’m currently learning React, Typescript, Storybook etc
 
+<span>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mnik01" />
+</span>
+
 ![](heart.gif)
+
 <!--
 **mnik01/mnik01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

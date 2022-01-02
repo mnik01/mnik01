@@ -1,8 +1,11 @@
 ## Hi there! 👋 I'm front-end developer
 Here is link to my [CV](https://mnik01.notion.site/70447c0ca6634f40a0757df88c784ec0) if you want to hire me ;)
 
+<!-- ![](heart.gif)
 ![mnik01's GitHub stats](
   https://github-readme-stats.vercel.app/api?username=mnik01&hide=stars&count_private=true&show_icons=true&theme=tokyonight
-)
-
-![](heart.gif)
+) -->
+<div style="display: flex;">
+  <img style="width: 200px;" src="./heart.gif">
+  <img style="width: 400px;" src="https://github-readme-stats.vercel.app/api?username=mnik01&hide=stars&count_private=true&show_icons=true&theme=tokyonight">
+</div>

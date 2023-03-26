@@ -1,5 +1,5 @@
 ## Hi there! 👋 I'm front-end developer
-##### Here is link to my [CV](https://mnik01.notion.site/70447c0ca6634f40a0757df88c784ec0) if you want to hire me ;)
+##### Here is link to my [CV](https://mnik01.vercel.app/cv) if you want to hire me ;)
 
 ![Profile views](https://gpvc.arturio.dev/mnik01)
 
